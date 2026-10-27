@@ -22,6 +22,7 @@ The system is controlled using an RC transmitter and receiver pair to remotely a
 4. The nichrome wire heats up and ignites the firecracker.
 5. LEDs indicate system status: transmission, reception, and ignition.
 
+
 ## ⚠️ Safety Precautions
 
 - Always test with dummy loads before using with real firecrackers.
